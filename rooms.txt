@@ -1,0 +1,5 @@
+101,Standard,false
+102,Standard,false
+201,Deluxe,false
+202,Deluxe,false
+301,Suite,false
